@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Joel!</h1>
 
-- 🔭 I’m currently working on [FoxFinancial](https://github.com/joelgorin/foxfinancial)
+- 🔭 I’m currently working on **[FoxFinancial](https://github.com/joelgorin/foxfinancial)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/joelgorin?tab=repositories](https://github.com/joelgorin?tab=repositories)
+- 💻 All of my projects are available at **[my repositories](https://github.com/joelgorin?tab=repositories)**
 
 - 📫 How to reach me **joelgorin@outlook.com**
 
