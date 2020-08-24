@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Joel!</h1>
+<h1>Hi 👋, I'm Joël!</h1>
 
 - 🔭 I’m currently working on **[FoxFinancial](https://github.com/joelgorin/foxfinancial)**
 
