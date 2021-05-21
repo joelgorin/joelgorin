@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Joël!</h1>
 
-- 🔭 I’m currently working on **[FoxFinancial](https://github.com/joelgorin/foxfinancial)**
+- 🔭 I’m currently working on **[Django Auth System](https://github.com/joelgorin/django-auth-system)**
 
 - 💻 All of my projects are available at **[my repositories](https://github.com/joelgorin?tab=repositories)**
 
