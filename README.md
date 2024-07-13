@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Joël!</h1>
 
-- 🔭 I’m currently working on **[Django Base Project](https://github.com/joelgorin/django-base-project)**
-
 - 💻 All of my projects are available at **[my repositories](https://github.com/joelgorin?tab=repositories)**
 
 - 📫 How to reach me **joelgorin@outlook.com**
